@@ -1,0 +1,25 @@
+{
+  "name": "AP Vision Care — Screening Team",
+  "short_name": "APVC Screen",
+  "description": "Andhra Pradesh Digital Vision Care — Screening Team PWA",
+  "start_url": "/portal/screening-team/dashboard",
+  "scope": "/portal/screening-team",
+  "display": "standalone",
+  "background_color": "#1e3a5f",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/images/apvision.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/apvision.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
